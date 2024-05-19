@@ -17,5 +17,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "29.7.0"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
   }
 }
