@@ -4,7 +4,7 @@
   "description": "web programming",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "node path/to/test.js"
   },
   "repository": {
     "type": "git",
