@@ -4,7 +4,7 @@
   "description": "web programming",
   "main": "index.js",
   "scripts": {
-    "test": "node path/to/test.js"
+  "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -14,8 +14,5 @@
     "Portfolio"
   ],
   "author": "Seeuagaen",
-  "license": "MIT",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+  "license": "MIT"
 }

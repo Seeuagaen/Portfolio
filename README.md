@@ -60,5 +60,3 @@ Information about me.
 
 Name: Alfrabi Kuanyshov
 Email: alfa014722@gmail.com
-License
-This project is not licensed. All rights reserved. If you have questions about using the project, please contact me.
