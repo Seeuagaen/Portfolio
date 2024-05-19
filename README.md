@@ -27,8 +27,8 @@ Steps to install and configure the project on your local machine.
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your_username/your_repository.git
-    cd your_repository
+    git clone https://github.com/Seeuagaen/Portfolio.git
+    cd Portfolio
 
 
 
