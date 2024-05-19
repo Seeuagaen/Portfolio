@@ -1,21 +1,13 @@
 {
-  "name": "package.json",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "web programming",
-  "main": "index.js",
+  "description": "My portfolio website",
   "scripts": {
+    "start": "node server.js",
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "github/Seeuagaen/Portfolio"
-  },
-  "keywords": [
-    "Portfolio"
-  ],
-  "author": "Seeuagaen",
-  "license": "MIT",
-  "devDependencies": {
-    "jest": "29.7.0"
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.0"
   }
 }
