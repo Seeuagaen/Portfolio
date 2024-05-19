@@ -16,6 +16,11 @@
   "author": "Seeuagaen",
   "license": "MIT",
   "devDependencies": {
-    "jest": "29.7.0"
+    "babel-jest": "^29.7.0",
+    "jest": "29.7.0",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "dependencies": {
+    "ci": "^2.3.0"
   }
 }
