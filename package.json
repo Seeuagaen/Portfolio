@@ -16,9 +16,7 @@
   "author": "Seeuagaen",
   "license": "MIT",
   "devDependencies": {
-    "jest": "29.7.0"
-  },
-  "dependencies": {
+    "jest": "29.7.0",
     "playwright": "^1.44.0"
   }
 }
