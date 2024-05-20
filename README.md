@@ -20,7 +20,7 @@ This project was created for a portfolio as part of the Erasmus web programming 
 - **Projects:** description of the projects I have completed, including links to demos and source code.
 - **Contacts:** form to contact me.
 
-
+##
 ## Installation
 
 Steps to install and configure the project on your local machine.
