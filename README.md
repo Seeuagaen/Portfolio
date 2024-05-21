@@ -1,5 +1,6 @@
 # web programming
 # Erasmus Portfolio Project
+## View website
 [VIEW WEBSITE](https://seeuagaen.github.io/Portfolio/lz_portf/)
 
 This project is a web application designed to showcase my web programming skills. It includes various sections that show my experiences, skills and projects completed as part of my studies and professional activities.
