@@ -70,7 +70,7 @@ wrapWorks.addEventListener('click', (event)=>{
         imageBoxModal.src = 'img/atworks/cicd.jpg'
         imageBoxModal2.style.display = 'inline'
         imageBoxModal2.src = 'img/atworks/cicd2.jpg'
-        textModal.innerHTML = 'Работа с <span class="ci_cd">GitLab CI/CD</span> для автоматизации процессов сборки, тестирования и развертывания приложений. Настройка интеграции GitLab CI/CD с Docker для контейнеризации приложений и управления контейнерами.'
+        textModal.innerHTML = 'Work with <span class="ci_cd">GitLab CI/CD</span> to automate the processes of building, testing and deploying applications. Setting up GitLab CI/CD integration with Docker for application containerization and container management.'
     } else if(item.classList.contains('pipeline')) {
         modal.classList.add('visib_modal')
         boxModal.classList.add('box_modal_active')
@@ -78,7 +78,7 @@ wrapWorks.addEventListener('click', (event)=>{
         imageBoxModal.src = 'img/atworks/pipelines1.jpg'
         imageBoxModal2.style.display = 'inline'
         imageBoxModal2.src = 'img/atworks/pipelines2.jpg'
-        textModal.innerHTML = 'GitLab Pipelines: Мы настроили GitLab Pipelines для автоматической сборки, тестирования и деплоя приложения: Благодаря использованию GitLab Pipelines мы значительно упростили процесс разработки, ускорили время выкладки новых версий приложения и повысили общую стабильность кодовой базы. Обратная связь и улучшения: Использование GitLab Pipelines принесло нам много пользы, однако мы также видим потенциал для улучшения процесса сборки и развертывания, например, путем добавления более детального мониторинга процессов.'
+        textModal.innerHTML = 'GitLab Pipelines: We have configured GitLab Pipelines to automatically build, test and deploy the application: Thanks to the use of GitLab Pipelines, we have significantly simplified the development process, accelerated the time to release new versions of the application and increased the overall stability of the code base. Feedback and Improvements: While using GitLab Pipelines has brought us a lot of value, we also see potential to improve the build and deployment process, for example by adding more granular process monitoring.'
     } else if(item.classList.contains('aws')) {
         modal.classList.add('visib_modal')
         boxModal.classList.add('box_modal_active')
@@ -86,14 +86,14 @@ wrapWorks.addEventListener('click', (event)=>{
         imageBoxModal.src = 'img/atworks/bash1.jpg'
         imageBoxModal2.style.display = 'inline'
         imageBoxModal2.src = 'img/atworks/bash2.jpg'
-        textModal.innerHTML = 'Поддержка и администрирование серверов на базе Linux (Ubuntu, Debian). Создание и редактирование скриптов на Bash для автоматизации задач по мониторингу и резервному копированию данных. Управление инфраструктурой на базе Linux (Ubuntu, CentOS), включая установку, настройку и обслуживание серверов.'
+        textModal.innerHTML = 'Support and administration of servers based on Linux (Ubuntu, Debian). Creating and editing Bash scripts to automate data monitoring and backup tasks. Management of Linux-based infrastructure (Ubuntu, CentOS), including installation, configuration and maintenance of servers.'
     } else if(item.classList.contains('yaml')) {
         modal.classList.add('visib_modal')
         boxModal.classList.add('box_modal_active')
         modalGitBtn.style.display = 'none'
         imageBoxModal.src = 'img/atworks/yaml1.jpg'
         imageBoxModal2.style.display = 'none'
-        textModal.innerHTML = 'Я обладаю опытом работы с языком сериализации данных YAML, который широко используется в конфигурационных файлах, сценариях CI/CD, настройках приложений и многих других областях Результаты: Улучшение процесса разработки, ускорение поставки новых версий приложения. Навыки и знания: Уверенное владение синтаксисом YAML. Опыт использования YAML для создания и редактирования конфигурационных файлов и сценариев CI/CD.Способность эффективно структурировать и управлять данными с помощью YAML.'
+        textModal.innerHTML = 'I have experience with the YAML data serialization language, which is widely used in configuration files, CI/CD scripts, application settings and many other areas Results: Improved development process, faster delivery of new versions of the application. Skills and knowledge: Confident knowledge of YAML syntax. Experience using YAML to create and edit configuration files and CI/CD scripts. Ability to effectively structure and manage data using YAML.'
     } 
 })
 closeIconModal.addEventListener('click', ()=>{
